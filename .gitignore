@@ -1,0 +1,32 @@
+# Evitar subir accidentalmente el código fuente
+*.py
+*.pyw
+*.iss
+*.spec
+
+# Ejecutables e instaladores
+*.exe
+*.msi
+
+# Archivos generados por AutoInputR
+config.json
+tracker_template.png
+
+# Compilaciones
+build/
+dist/
+installer/
+Output/
+
+# Archivos temporales
+*.log
+*.tmp
+__pycache__/
+
+# Editores
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
