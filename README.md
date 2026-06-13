@@ -13,8 +13,7 @@ AutoInputR es una aplicación de escritorio para Windows que permite automatizar
 La versión oficial más reciente se encuentra en la sección **Releases** de este repositorio.
 
 Descarga:
-
-[Descargar AutoInputR v1.3.0](https://github.com/RobDev512/AutoInputR/releases/download/v1.3.0/AutoInputR_Setup_v1.3.0.exe)
+  [Descargar AutoInputR v1.3.0](https://github.com/RobDev512/AutoInputR/releases/download/v1.3.0/AutoInputR_Setup_v1.3.0.exe)
 
 Después:
 
